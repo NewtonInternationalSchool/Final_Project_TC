@@ -4,6 +4,7 @@ You need to submit your project via github and send me the link to the following
 
 To submit a project on github. Follow the steps below:
 1)	Download and install Visual Studio Code.
+Follow this Video for instructions about how to push code via Github: https://www.youtube.com/watch?v=PvUexC0-D2s
 2)	Create a github account.
 3)	Download github Desktop from (https://desktop.github.com) (for those familiar with command lines, you are free to do so)
 4)	Connect to Github on Github Desktop.
