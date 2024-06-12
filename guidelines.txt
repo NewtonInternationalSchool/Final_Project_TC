@@ -1,4 +1,4 @@
-You need to submit your project via github and send me the link to the following adresse: sendidach@gmail.com
+You need to submit your project via github and send me the link or the files to the following adresse: sendidach@gmail.com
 
  The Final project consists of building your CV using HTML & CSS: it should include your fullname, picture, phone number, adresse , email adresse, personal experience, education, skills and hobbies.
 
